@@ -18,3 +18,11 @@ Works only for tasks of category pick-up or drop-off (untested, might require an
 - pick-up
 - drop-off
 - warehouse - undocumented
+
+### external_id
+
+Type: string (limit?)
+
+Unique for client.
+
+When creating a new task (POST) the external_id is checked and if another task exists with the same external_id, no task is created and the old task is returned.
