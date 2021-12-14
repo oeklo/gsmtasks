@@ -21,8 +21,12 @@ Works only for tasks of category pick-up or drop-off (untested, might require an
 
 ### external_id
 
-Type: string (limit?)
+Type: string (max 100 characters)
 
-Unique for client.
+Unique for client (most likely).
 
 When creating a new task (POST) the external_id is checked and if another task exists with the same external_id, no task is created and the old task is returned.
+
+### metafields
+
+When you try setting metafield that's not editable, the API will return HTTP error 400
