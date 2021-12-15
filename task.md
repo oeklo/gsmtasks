@@ -18,6 +18,8 @@ External ID is used by customers who wish to overwrite information in a task aft
 
 ### metafields
 
+"Metafields" are just custom fields, defined in the account. API and UI for editing is available.
+
 When you try setting metafield that's not editable, the API will return HTTP error 400
 
 ### size
