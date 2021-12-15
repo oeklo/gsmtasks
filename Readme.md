@@ -6,5 +6,5 @@ I hope others will find it usefull and contribute.
 
 Resources:
 
-- [account](account.md)
+- [Account](account.md)
 - [Task](task.md)
