@@ -1,15 +1,33 @@
-# Base URL
+# V2
+
+This is the new undocumented API. The old one doesn't work for some endpoints and is soon to be deprecated.
+
+## Documentation
+
+https://api.gsmtasks.com/docs/
+
+## Schema
+
+https://api.gsmtasks.com/docs/schema/
+
+## Base URL
 
 https://api.gsmtasks.com/
 
-This is the new undocumented API base URL. The old base URL doesn't work for some of the endpoints and is soon to be deprecated.
+# V1
 
-# Schema
+## Documentation
+
+https://developer.gsmtasks.com/
+
+## Base URL
+
+https://gsmtasks.com/api/
+
+## Schema
 
 Partial schema is available. 
-1. Go to https://gsmtasks.com/,
-2. click one of the endoints,
+1. Go to https://gsmtasks.com/api/,
+2. click one of the endpoints,
 3. click one of the values,
 4. click GET->api and then OPTIONS
-
-No documentation is available and many fields are types.
