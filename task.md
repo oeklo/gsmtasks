@@ -1,5 +1,11 @@
 # Task
 
+## Operations
+
+### Create
+
+POST request accepts either a Task object or a list of thereof.
+
 ## Fields
 
 ### category
