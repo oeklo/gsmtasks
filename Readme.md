@@ -1,10 +1,4 @@
-This is a knowledge base for [GSM tasks](https://gsmtasks.com/), a route planning SaaS.
+This is a knowledge base for [GSM tasks](https://gsmtasks.com/), a route planning software.
 
-I hope others will find it usefull and contribute.
-
-[Base URL and schema](base.md)
-
-Resources:
-
-- [Account](account.md)
-- [Task](task.md)
+- [User interface](ui)
+- [API](api)
