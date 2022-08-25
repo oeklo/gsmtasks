@@ -4,7 +4,7 @@
 
 ### Create
 
-See [Settings UI caveats](/ui/settings.md)
+See [Settings UI caveats](../ui/settings.md)
 
 ## Fields
 
